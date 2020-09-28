@@ -83,4 +83,32 @@ Tech: **ASP.NET, Django, Express, Git, MongoDB, MVC, Node.JS, OOP, ORM, React, S
 
 Certifications: **Azure Fundamentals (AZ-900 Certified), Harvard CS50: Intro to Computer Science, Harvard CS50: Understanding Technology**
 
+--------------------
+
+Projects:
+
+**Derive**
+Interactive travel planner website that was designed to combine & collect information from a user about all upcoming trips. Accessed & stored real-time flight information & points of interest.
+
+* Team Project
+* Language: JavaScript
+* Framework: MERN
+* Login / Registration Functionality
+* Google Maps API
+* AviationStack API
+
+**Hurtles**
+A single-player 3D game designed to send each user through a randomized obstacle course. Each character possessing unique abilities.
+
+* Team Project
+* Language: C#
+* Framework: Unity
+
+**Revolutionary Crown**
+Choose your adventure renaissance inspired game. Each decision achieves a new end game outcome.
+
+* Team Project
+* Languages: HTML, CSS
+* Piskel - Custom 2D Sprites
+
 ----

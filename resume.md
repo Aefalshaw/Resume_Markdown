@@ -3,7 +3,7 @@ Alyssa E. Falshaw
 Aly.Falshaw23@gmail.com |
 (928)814-9364 |
 linkedin.com/in/alyssa-falshaw |
-github.com/Aefalshaw | 
+github.com/Aefalshaw
 
 
 ----

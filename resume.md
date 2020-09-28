@@ -1,4 +1,4 @@
-Alyssa E. Falshaw
+Alyssa Falshaw
 ============
 Aly.Falshaw23@gmail.com |
 (928)814-9364 |
@@ -9,7 +9,7 @@ github.com/Aefalshaw
 ----
 Summary
 ---------
-Having a unique background in both customer service and collaborative work experience I've been able to sharpen my leadership and management skills especially in high volume, high-stress situations. I am team-oriented, eager to learn, and eager to dive into the software engineering industry.
+Having a unique background in customer service and collaborative work experience, I've sharpened my leadership and management skills, especially in high volume, high-stress situations. I am team-oriented, eager to learn, and eager to dive into the software engineering industry.
 
 ----
 Soft Skills
@@ -88,7 +88,7 @@ Certifications: **Azure Fundamentals (AZ-900 Certified), Harvard CS50: Intro to 
 Projects:
 
 **Derive**
-Interactive travel planner website that was designed to combine & collect information from a user about all upcoming trips. Accessed & stored real-time flight information & points of interest.
+Interactive travel planner website designed to combine & collect information from a user about all upcoming trips. Accessed & stored real-time flight information & points of interest.
 
 * Team Project
 * Language: JavaScript

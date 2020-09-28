@@ -88,6 +88,7 @@ Certifications: **Azure Fundamentals (AZ-900 Certified), Harvard CS50: Intro to 
 Projects:
 
 **Derive**
+---------
 Interactive travel planner website designed to combine & collect information from a user about all upcoming trips. Accessed & stored real-time flight information & points of interest.
 
 * Team Project
@@ -98,6 +99,7 @@ Interactive travel planner website designed to combine & collect information fro
 * AviationStack API
 
 **Hurtles**
+---------
 A single-player 3D game designed to send each user through a randomized obstacle course. Each character possessing unique abilities.
 
 * Team Project
@@ -105,6 +107,7 @@ A single-player 3D game designed to send each user through a randomized obstacle
 * Framework: Unity
 
 **Revolutionary Crown**
+---------
 Choose your adventure renaissance inspired game. Each decision achieves a new end game outcome.
 
 * Team Project

@@ -77,15 +77,19 @@ While attending Coding Dojo I maintained 90 hours per week of coding assignments
 
 --------------------
 
-Tech: **ASP.NET, Django, Express, Git, MongoDB, MVC, Node.JS, OOP, ORM, React, SQL, SQLite**
+Tech:
+----------
+**ASP.NET, Django, Express, Git, MongoDB, MVC, Node.JS, OOP, ORM, React, SQL, SQLite**
 
 --------------------
 
-Certifications: **Azure Fundamentals (AZ-900 Certified), Harvard CS50: Intro to Computer Science, Harvard CS50: Understanding Technology**
+Certifications:
+----------
+**Azure Fundamentals (AZ-900 Certified), Harvard CS50: Intro to Computer Science, Harvard CS50: Understanding Technology**
 
 --------------------
 
-Projects
+Projects:
 ----------
 
 **Derive**

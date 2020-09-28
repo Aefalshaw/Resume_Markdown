@@ -85,7 +85,8 @@ Certifications: **Azure Fundamentals (AZ-900 Certified), Harvard CS50: Intro to 
 
 --------------------
 
-Projects:
+Projects
+----------
 
 **Derive**
 ---------

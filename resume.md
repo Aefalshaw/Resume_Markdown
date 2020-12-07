@@ -130,5 +130,5 @@ Choose your adventure renaissance inspired game. Each decision achieves a new en
 Extra Cirricular:
 ----------
 **She's Coding (Seattle)**
----------
+
 An open-source website that educates women, allies and companies about the gender gap, developed in mentorship-based volunteer groups.

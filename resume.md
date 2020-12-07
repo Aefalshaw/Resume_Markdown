@@ -1,6 +1,6 @@
 Alyssa Falshaw
 ============
-Aly.Falshaw23@gmail.com |
+Alyssa.Falshaw@gmail.com |
 (928)814-9364 |
 linkedin.com/in/alyssa-falshaw |
 github.com/Aefalshaw
@@ -28,7 +28,7 @@ March 2020- July 2020
     * Gained extensive knowledge of both front and back end concepts with the ability to create a fully functioning web application from scratch. Gained an understanding of C#, Python, and JavaScript in a full-stack curriculum incorporating a deep understanding of Object-Oriented Programming principles and expertise on language-specific frameworks (Django, ASP.NET CORE, MERN)
 
 May 2018
-:   **AS, General Science**; Coconino Community College
+:   **AA, General Science**; Coconino Community College
 
     * General studies directed towards medical science
 
@@ -40,6 +40,13 @@ May 2014
 Experience
 ----------
 
+**Freelance Software Developer - AlFalWare (Self-Employed)**
+
+August 2020 - Current
+
+* Designing and building personal projects to build out a portfolio
+* Daily teachings, debugging, open-source contributions, and project collaborations
+
 **Patient Care Technician - Virginia Mason Medical Center**
 
 October 2018 - October 2019
@@ -49,7 +56,6 @@ October 2018 - October 2019
 * Collected biological specimens and packaged for laboratory transport to complete important diagnostic tests.
 * Ordered medical supplies from vendors to keep par levels in an acceptable range.
 * Coordinated patient care needs with the healthcare team and delivered compassionate assistance with activities of daily living.
-
 
 **Patient Escort / Volunteer - University of Washington**
 
@@ -73,7 +79,7 @@ Languages: **JavaScript** | **Python** | **C#**
 
 Core and fundamental understanding of all three languages.
 
-While attending Coding Dojo I maintained 90 hours per week of coding assignments, overall more than 1000+ hours of developing experience, maintaining and debugging full-stack applications on ASP.NET, Django and MERN. • Libraries/DBs: jQuery, Socket.io, Mongoose, Express.js, React.js, Ajax, JSON, MongoDB, MySQL, Razor, Entity Framework, .NET Core.
+While attending Coding Dojo I maintained 90 hours per week of coding assignments, overall more than 1000+ hours of developing experience, maintaining and debugging full-stack applications on ASP.NET, Django and MERN. • Libraries/DBs: jQuery, Socket.io, Mongoose, Express.js, React.js, Ajax, JSON, MongoDB, MySQL, Razor, Entity, .NET Core.
 
 --------------------
 
